@@ -1,0 +1,3 @@
+a=c+d
+d=a/d*c
+a=c-d+a
